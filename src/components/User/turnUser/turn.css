@@ -1,0 +1,18 @@
+.custom-button{
+    background-color: #001529;
+    color: rgb(255, 255, 255);
+}
+
+
+.cell{
+    border-color: aquamarine;
+    border: 8cm;
+}
+.buttonTurn{
+    width: 45%;
+    background-color: #001529;
+    color: azure;
+    border-radius: 0;
+    border: 0;
+
+}
